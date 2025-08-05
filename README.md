@@ -1,6 +1,6 @@
 Final project for UCLA's ECON 106P: Pricing and Strategy — Spring 2025.  
 Our team was assigned to represent the **Plaintiff (U.S. antitrust agencies)** in evaluating the proposed merger of Hawaiian and Alaska Airlines.
-
+📽️ [View Presentation Slides](econ106p-presentation.pdf)
 ## 📂 Contents
 
 - `hawaiian_alaska_merger.Rmd`: Main analysis in R Markdown
